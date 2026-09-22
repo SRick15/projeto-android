@@ -26,6 +26,7 @@
 body{
     background-color: var(--cor2);
     font-family: var(--fonte_padrao);
+    margin: auto;
 }
 
 header{
