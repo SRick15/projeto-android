@@ -42,14 +42,14 @@ header h1{
     padding: 20px 20px 0px 20px;
 }
 header p{
+    margin: auto;
     text-align: center;
     font-size: 1.3em;
     color: white;
     text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.39);
-    padding-bottom: 20px;
-    width: 420px;
+    padding-bottom: 30px;
     display: block;
-    margin: auto;
+    width: 320px;;
 }
 nav{
     background-color: var(--cor3);
