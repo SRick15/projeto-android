@@ -89,7 +89,7 @@ main p strong{
 }
 main a.pagina_android{
     background-color: var(--cor2);
-    color: var(--cor0);
+    color: var(--cor4);
     padding: 3.5px;
     padding-right: 0px;
     text-decoration: none;
